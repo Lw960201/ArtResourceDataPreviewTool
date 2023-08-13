@@ -1,0 +1,2 @@
+# ArtResourceDataPreviewTool
+美术用来查看贴图通道和顶点色通道在模型上的预览工具
