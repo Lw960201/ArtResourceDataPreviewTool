@@ -1,8 +1,8 @@
 /*
 功能：预览贴图和顶点色通道Mask
-作者：6君
+开发者：秘密基地工作室(SecretBaseStudio)-6君
 */
-Shader "6JStudio/ArtResourceDataPreviewShader"
+Shader "SecretBaseStudio/ArtResourceDataPreviewShader"
 {
     Properties
     {
