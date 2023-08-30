@@ -23,14 +23,14 @@ Unity版本：2021.3.19f1
 1.下载工程
 
 2.打开工程的TestScene
-![Alt text](image-4.png)
+![Alt text](Image/README/image-4.png)
 
 3.场景中有美术资源，使用了可以预览贴图通道和顶点色通道的Shader，将如下图中的Shader拖到材质面板Shader路径处替换Shader
-![Alt text](image-8.png)
+![Alt text](Image/README/image-8.png)
 4.拖入想要预览的图；如果查看顶点色通道，需要有顶点色信息，一般默认没有刷过顶点色，勾选顶点色通道会显示为白色
 5.通过勾选开关可以实现预览当前通道在模型上的Mask信息（一次只能勾选一个选项）
-![Alt text](image-5.png)
-![Alt text](image-6.png)
-![Alt text](image-7.png)
+![Alt text](Image/README/image-5.png)
+![Alt text](Image/README/image-6.png)
+![Alt text](Image/README/image-7.png)
 
 
